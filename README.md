@@ -4,11 +4,16 @@ A lightweight command-line tool to manage your daily expenses. It automatically 
 
 ### 🚀 Quick Start
 
-1. Navigate to the project folder:
+1. Clone project from repository
+   ```bash
+   clone https://github.com/ZKRV02/Expense_tracker
+   ```
+
+2. Navigate to the project folder:
    ```bash
    cd expense-tracker-cli
    ```
-2. Install it globally in development mode:
+3. Install it globally in development mode:
     ```bash
     pip install -e .
     ```
