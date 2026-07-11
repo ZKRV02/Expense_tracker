@@ -9,7 +9,12 @@ description = "A simple CLI Expense Tracker"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
+    "tabulate>=0.9.0",
 ]
+
+[tool.setuptools]
+packages = ["expense_tracker"]
+package_dir = {"" = "src", "expense_tracker": "src/expense_tracker"}
 
 [project.scripts]
 expense-tracker = "main:main"

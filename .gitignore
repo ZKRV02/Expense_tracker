@@ -1,1 +1,4 @@
 .Ds_store
+expensevenv
+.gitignore
+__pycache__
