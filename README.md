@@ -18,6 +18,7 @@ A lightweight command-line tool to manage your daily expenses. It automatically 
     pip install -e .
     ```
 💻 How to Use
+
 After installation, run the tool using the expense-tracker command followed by an action:
 
 **Add a new expense:**
