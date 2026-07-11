@@ -6,12 +6,12 @@ A lightweight command-line tool to manage your daily expenses. It automatically 
 
 1. Clone project from repository
    ```bash
-   clone https://github.com/ZKRV02/Expense_tracker
+   git clone https://github.com/ZKRV02/Expense_tracker
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd expense-tracker-cli
+   cd Expense_tracker
    ```
 3. Install it globally in development mode:
     ```bash
