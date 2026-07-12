@@ -60,3 +60,6 @@ Python 3.9+ & Argparse for the CLI structure
 Tabulate for clean terminal tables
 
 JSON for zero-configuration data storage
+
+
+https://roadmap.sh/projects/expense-tracker
